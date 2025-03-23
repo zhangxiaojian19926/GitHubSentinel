@@ -1,7 +1,3 @@
-#!/bin/bash
-
-# 生成README.md文件
-cat > GitHubSentinel/README.md << 'EOF'
 # GitHub Sentinel 🛡️
 
 *A Guardian for Your GitHub Ecosystem - Open Source Repository Monitor & Automation Agent*
